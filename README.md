@@ -13,41 +13,41 @@
 <br>
 
 ## Tela principal com tabela dos times do Campeonato Brasileiro
-![alt tag](https://github.com/MariaDiane/Desenv_Sistema_Avaliacao_oficial/blob/main/imagem1.png)
+![alt tag](https://github.com/MariaDiane/Desenv_Sistema_Avaliacao_oficial/blob/main/templates/imagem1.png)
 
 <br>
 
 ##  Tela do melhor time do campeonato
-![alt tag](https://github.com/MariaDiane/Desenv_Sistema_Avaliacao_oficial/blob/main/imagem2.png)
+![alt tag](https://github.com/MariaDiane/Desenv_Sistema_Avaliacao_oficial/blob/main/templates/imagem2.png)
 
 <br>
 
 ##  Time que etá em primeiro lugar no  campeonato Brasileiro, e atualizado novo técnico
-![alt tag](https://github.com/MariaDiane/Desenv_Sistema_Avaliacao_oficial/blob/main/imagem3.png)
+![alt tag](https://github.com/MariaDiane/Desenv_Sistema_Avaliacao_oficial/blob/main/templates/imagem3.png)
 
 <br>
 
 ##  Segundo colocado do  campeonato Brasileiro
-![alt tag](https://github.com/MariaDiane/Desenv_Sistema_Avaliacao_oficial/blob/main/imagem4.png)
+![alt tag](https://github.com/MariaDiane/Desenv_Sistema_Avaliacao_oficial/blob/main/templates/imagem4.png)
 
 <br>
 
 ##  Terceiro colocado do  campeonato Brasileiro
-![alt tag](https://github.com/MariaDiane/Desenv_Sistema_Avaliacao_oficial/blob/main/imagem5.png)
+![alt tag](https://github.com/MariaDiane/Desenv_Sistema_Avaliacao_oficial/blob/main/templates/imagem5.png)
 
 <br>
 
 ##  Time quase rebaixado!!
-![alt tag](https://github.com/MariaDiane/Desenv_Sistema_Avaliacao_oficialAc5/blob/main/imagem6.png)
+![alt tag](https://github.com/MariaDiane/Desenv_Sistema_Avaliacao_oficialAc5/blob/main/templates/imagem6.png)
 
 <br>
 
 ##  Tabela de cadastro
-![alt tag](https://github.com/MariaDiane/Desenv_Sistema_Avaliacao_oficial/blob/main/imagem7.png)
+![alt tag](https://github.com/MariaDiane/Desenv_Sistema_Avaliacao_oficial/blob/main/templates/imagem7.png)
 
 <br>
 
 ##  tabela com novos times inseridos
-![alt tag](https://github.com/MariaDiane/Desenv_Sistema_Avaliacao_oficial/blob/main/imagem8.png)
+![alt tag](https://github.com/MariaDiane/Desenv_Sistema_Avaliacao_oficial/blob/main/templates/imagem8.png)
 
 
