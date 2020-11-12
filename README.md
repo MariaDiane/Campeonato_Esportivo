@@ -38,7 +38,7 @@
 <br>
 
 ##  Time quase rebaixado!!
-![alt tag](https://github.com/MariaDiane/Desenv_Sistema_Avaliacao_oficialAc5/blob/main/templates/imagem6.png)
+![alt tag](https://github.com/MariaDiane/Desenv_Sistema_Avaliacao_oficial/blob/main/templates/imagem6.png)
 
 <br>
 
