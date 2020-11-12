@@ -12,5 +12,9 @@ def index():
 def detalhe(time):
     return render_template("detalhe_" + time + ".html") 
 
+@app.route("/cadastro")
+def cadastro():
+    return render_template("cadastro.html")
+
 if __name__ == "__main__":
     app.run(debug=True)

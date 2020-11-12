@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename = 'styles/style.css') }}">
+    <title>Cadastro de novos clubes</title>
+</head>
+<body style="background-color:blanchedalmond;">
+<center>
+<h2>Cadastro de novos clubes</h2>
+    <form>
+        <label for="nome_clube">Nome do clube:</label><br>
+        <input type="text" id="nome_clube" name="nome_clube"><br>
+        <label for="fundação_clube">Fundação:</label><br>
+        <input type="text" id="fundação_clube" name="fundação_clube"><br>
+        <label for="mascote_clube">Mascote:</label><br>
+        <input type="text" id="mascote_clube" name="mascote_clube"><br>
+        <label for="estadio_clube">Estádio:</label><br>
+        <input type="text" id="estadio_clube" name="estadio_clube"><br>
+        <label for="localizacao_clube">Localização:</label><br>
+        <input type="text" id="localizacao_clube" name="localizacaow_clube"><br>
+        <label for="patrocinador_clube">Patrocinador:</label><br>
+        <input type="text" id="patrocinador_clube" name="patrocinador_clube"><br>
+        <label for="rival_clube">Principal rival:</label><br>
+        <input type="text" id="rival_clube" name="rival_clube"><br>
+    </form>
+    <h2>Selecione os campeonatos que o clube participa</h2>
+    <form action="/action_page.php">
+    <input type="checkbox" id="campeonato1" value="campeonato1">
+    <label for="campeonato1">Campeonato Brasileiro</label><br>
+    <input type="checkbox" id="campeonato2" value="campeonato2">
+    <label for="campeonato2">Campeonato Carioca</label><br>
+    <input type="checkbox" id="campeonato3" value="campeonato3">
+    <label for="campeonato3">Copa do Brasil</label><br>
+    <input type="checkbox" id="campeonato4" value="campeonato4">
+    <label for="campeonato4">Copa Libertadores</label><br>
+    <input type="checkbox" id="campeonato5" value="campeonato5">
+    <label for="campeonato5">Super copa do Brasil</label><br>
+    <input type="checkbox" id="campeonato6" value="campeonato6">
+    <label for="campeonato6">Recopa Sul Americana</label><br>
+    <input type="button" value="ENVIAR">
+    <a href="/">Voltar</a>
+</center>
+</form>
+</body>
+</html>
